@@ -1,0 +1,7 @@
+@media(max-width:760px){
+    .item-list{
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+}
